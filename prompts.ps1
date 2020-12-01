@@ -1,4 +1,4 @@
-﻿#Written by: Kenneth B Shinn Jr. Student Number: #001222768
+#Written by kenbshinn
 #Clears powershell command line
 Clear-Host
 Do 
